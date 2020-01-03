@@ -16,7 +16,11 @@ public class Fen extends JFrame implements ActionListener {
  
 	private JButton b = new JButton("toto");
 	private JPanel p = new JPanel();
+<<<<<<< HEAD
 	private JTextField jtf=new JTextField("8");
+=======
+	private JTextField jtf=new JTextField("9");
+>>>>>>> branch 'master' of https://github.com/sl4iut3/toto4git
 	 
 	public Fen() {
 		Container cc;
