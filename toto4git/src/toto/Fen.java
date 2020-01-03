@@ -16,7 +16,7 @@ public class Fen extends JFrame implements ActionListener {
  
 	private JButton b = new JButton("toto");
 	private JPanel p = new JPanel();
-	private JTextField jtf=new JTextField("5");
+	private JTextField jtf=new JTextField("6");
 	 
 	public Fen() {
 		Container cc;
