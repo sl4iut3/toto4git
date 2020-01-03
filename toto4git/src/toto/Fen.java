@@ -17,9 +17,9 @@ public class Fen extends JFrame implements ActionListener {
 	private JButton b = new JButton("toto");
 	private JPanel p = new JPanel();
 	private JTextField jtf=new JTextField("5");
-	Container c;
 	 
 	public Fen() {
+		Container cc;
 		c = this.getContentPane();
 		c.add(b,BorderLayout.NORTH);
 		c.add(jtf,BorderLayout.CENTER);
