@@ -1,0 +1,9 @@
+body { columns: 2; margin:100px 10px 10px 10px; }
+td { text-align: center; } 
+.TM {
+	background-color: #dddddd;
+	border: 3px solid black;
+}
+.TM td { border: 2px solid blue; } 
+.titreTM { background-color: yellow; }
+.enteteTM { background-color: red; }
